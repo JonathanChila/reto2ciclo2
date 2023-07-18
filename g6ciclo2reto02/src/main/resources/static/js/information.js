@@ -1,5 +1,5 @@
 // const URL_INFO = 'http://150.136.169.53:8080/api/'
-const URL_INFO = 'http://143.47.105.106:8080/api/'
+const URL_INFO = 'http://143.47.105.106:8080/api/';
 // const URL_INFO = 'http://localhost:8080/api/'
 var arrayData = {};
 var dataTemp;
